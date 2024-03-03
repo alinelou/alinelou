@@ -1,10 +1,6 @@
 ### Olá! Me chamo Aline Lourenço!
 
--Sou graduanda do curso Tecnologia da Informação na UFERSA
-
--Sou desenvolvedora Front-end
-
--Sempre buscando aprender e explorar novas fronteiras tecnológicas
+🚀Sou desenvolvedora Front-end
 
 ### Linguagens de Programação:
  Possuo Domínio:
