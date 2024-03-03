@@ -1,4 +1,4 @@
-### Olá! Me chamo Aline Lourenço!
+### Olá! Me chamo Aline Lourenço🦋!!
 
 🚀Sou desenvolvedora Front-end
 
