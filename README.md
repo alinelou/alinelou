@@ -40,7 +40,7 @@
 
 ## Estatísticas do GitHub:
 <div>
-  <a href="https://github.com/luis-luciqm">
+  <a href="https://github.com/alinelou">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinelou&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinelou&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
