@@ -3,7 +3,7 @@
     <img align="left"width=10% src="https://github.com/alinelou/alinelou/assets/104594619/c707278a-17e5-4c30-9729-30c23eb31254"/>
     <img align="right"width=15% src="https://github.com/alinelou/alinelou/assets/104594619/2c984f0a-48c2-4bc8-963c-a988ddc2cc80"/>
     <p align="center">B.T.I</p>
-    <p align="center">Sou desenvolvedora Front-end 🚀</p>
+    <p align="center">🚀 Sou desenvolvedora Front-end 🚀</p>
 
 <div>
 &nbsp;
